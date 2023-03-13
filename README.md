@@ -1,6 +1,6 @@
 # Living the social life
 
-_This is a responsive websit that scouts its simplicity in life.._
+_This is a responsive website that scouts its simplicity in life.._
 <br><br>
 
 
